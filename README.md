@@ -3,7 +3,7 @@
 
 # Gopherizer
 
-The motivation behind creating this template repository was to establish a unified architecture across multiple repositories, eliminating the need to repeat boilerplate code. This approach not only ensures consistency and maintainability but also provides the flexibility to extend and adapt the architecture as needed. By leveraging this template, teams can focus on developing unique features rather than reinventing the wheel for each project.
+The primary goal of this template repository is to provide a standardized foundation for GO (REST) API services, eliminating the need to duplicate boilerplate code. This approach ensures consistency, maintainability, and flexibility, allowing teams to focus on developing unique features rather than reinventing the wheel for each project.
 
 ## Features
 - ✅ HTTP Server run with graceful shutdown
